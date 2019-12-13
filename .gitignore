@@ -1,0 +1,8 @@
+# Project exclude paths
+/day01/target/
+/day02/target/
+/day03/target/
+/day04/target/
+/day05/target/
+/target/
+/.idea/
