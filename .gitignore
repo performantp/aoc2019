@@ -6,3 +6,4 @@
 /day05/target/
 /target/
 /.idea/
+/**/Cargo.lock
